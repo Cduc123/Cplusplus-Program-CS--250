@@ -4,7 +4,7 @@
 
 # Understanding User Needs and Turning Them into Code
 
-To create software that users love, it’s important to really understand what they need and why. I’ve found that *user stories* are a great way to break down these needs into simple, clear tasks. Each user story describes a feature from the user's perspective, so we’re always focused on what’s most valuable to them. This method also helps us keep our priorities straight and allows us to adjust easily when things change. In my project work, user stories helped me stay aligned with what the client wanted, especially when we had to shift focus based on new feedback.
+To create software that users love, it’s important to really understand what they need and why. I’ve found that user stories are a great way to break down these needs into simple, clear tasks. Each user story describes a feature from the user's perspective, so we’re always focused on what’s most valuable to them. This method also helps us keep our priorities straight and allows us to adjust easily when things change. In my project work, user stories helped me stay aligned with what the client wanted, especially when we had to shift focus based on new feedback.
 
 # How User Stories Help
 
@@ -15,7 +15,7 @@ Writing user stories is helpful because it gives the team a clear view of each f
 My development approach is focused on making small, steady progress and getting feedback often. I think Agile is a perfect fit for this since it’s designed around regular check-ins and flexibility. Here’s what I try to do in my work:
 
 - Daily Standups: We quickly check in each day to keep everyone on the same page and to solve any issues fast.
-- Sprint Planning and Reviews**: These help us set priorities and then check back in with stakeholders to get their thoughts on our progress.
+- Sprint Planning and Reviews: These help us set priorities and then check back in with stakeholders to get their thoughts on our progress.
 - Retrospectives: At the end of each sprint, we look back at what went well and what we can improve.
 
 These Agile practices help me stay organized and focused on delivering value, while still being able to adapt when needed.
